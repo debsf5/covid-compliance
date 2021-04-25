@@ -21,4 +21,4 @@ Test2.3.py shows the division of ss in a general population. SS is categorised a
 
 ##
 
-Parameters p_local and p_global represents local and global connections respectively.
+Parameters p_local and p_global represent local and global connections respectively.

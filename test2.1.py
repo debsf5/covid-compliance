@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn
 
 nodes = 10000
-connections = 13
+connections = 6
 # INIT_EXPOSED = int(nodes*0.01)
 
 beta = 0.155

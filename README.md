@@ -10,6 +10,8 @@ Test2.3.py shows the division of ss in a general population. SS is categorised a
 
 # Types of interactions:
 
+Parameters p_local and p_global represent local and global connections respectively.
+
 - Local interactions (p_local), i.e. with close contacts. These are individuals with whom one has repeated, sustained, and/or physical interactions on a regular basis. Examples include housemates, family members, close coworkers or friends.
 
 - Global interactions (p_global), i.e. with casual contacts. These are individuals with whom one has incidental, brief, or superficial contact on an infrequent basis. Examples include one-off or random acquaintances at the grocery store, on transit or in an elevator. Global interactions are represented in the models in the form of a parallel mode of mean-field global transmission. 
@@ -26,6 +28,4 @@ Test2.3.py shows the division of ss in a general population. SS is categorised a
     (ii): complying with close contacts, meaning reducing local network but increasing rare acquaintances in global connectivity. 
 - No (or 0%) compliance: Ignoring social distancing guidelines and maximising local and global connectivity. 
 
-##
 
-Parameters p_local and p_global represent local and global connections respectively.

@@ -11,6 +11,8 @@ Test2.3.py shows the division of ss in a general population. SS is categorised a
 ## Compliance is categorised into 4 level:
 - Full (or 100%) compliance: complying strictly with guidelines and minimising local and global connectivity. 
 - Partial compliance is divided into two parts: 
+
 (i): complying with travel restrictions, meaning reducing the global contacts whilst maintaining close family and friends contact. 
+
 (ii): complying with close contacts, meaning reducing local network but increasing rare acquaintances in global connectivity. 
 - No (or 0%) compliance: Ignoring social distancing guidelines and maximising local and global connectivity. 

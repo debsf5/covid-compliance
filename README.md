@@ -8,9 +8,11 @@ Test2.2.py shows the combined 4 compliance levels of non-ss and ss.
 
 Test2.3.py shows the division of ss in a general population. SS is categorised as the top 20% of individuals in a population.
 
+##
+
 Parameters p_local and p_global represents local and global connections respectively.
 
-Compliance is categorised into 4 levels:
+# Compliance is categorised into 4 levels:
 
 - Full (or 100%) compliance: complying strictly with guidelines and minimising local and global connectivity. 
 - Partial compliance is divided into two parts: 

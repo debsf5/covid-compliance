@@ -1,4 +1,4 @@
-# covid-compliance
+# covid-compliance: central role of superspreaders
 
 A stochastic network compartmental model is adapted from public available code https://github.com/ryansmcgee/seirsplus. This model uses a modified version of the SEIRS Network model class. 
 

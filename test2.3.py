@@ -86,7 +86,7 @@ model_partialcompliancetwo.run(T=1000)
 ax.plot(100*model_partialcompliancetwo.numI/nodes, label="Partial compliance (ii)" + str())
 
 
-plt.xlabel('Timestamp')
+plt.xlabel('Timestep')
 # Set the y axis label of the current axis.
 plt.ylabel('% population infected')
 # Set a title of the current axes.

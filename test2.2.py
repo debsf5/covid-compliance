@@ -71,7 +71,7 @@ model_100compliance.run(T=1000)
 ax.plot(100*model_100compliance.numI/nodes,label="100% compliance" + str())
 
 
-plt.xlabel('Timestamp')
+plt.xlabel('Timestep')
 plt.ylabel('% population infected')
 plt.title('Levels of compliance \n Without superspreaders')
 plt.legend()

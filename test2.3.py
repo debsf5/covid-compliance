@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 nodes = 10000
-connections = 6
+connections = 12
 
 beta = 0.155
 sigma = 1 / 5.2

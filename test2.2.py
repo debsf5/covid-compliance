@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # def run_model(scenario,runs,plot,outfile):
 
 nodes = 10000
-connections = 6
+connections = 12
 # INIT_EXPOSED = int(nodes*0.01)
 
 beta = 0.155
